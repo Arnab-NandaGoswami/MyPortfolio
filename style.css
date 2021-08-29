@@ -258,7 +258,7 @@ section .title::after{
     background: #111;
 }
 .education .title::before{
-    width: 280px;
+    width: 200px;
 }
 .education .title::before{
     background: #fff;
@@ -269,10 +269,10 @@ section .title::after{
 .education .title::after,
 .project .title::after{
     background: #111;
-    content: "My Academic Details";
+    content: "My Academia";
 }
 .projects .title::before{
-    width: 280px;
+    width: 20px;
 }
 .education .serv-content .card{
     width: calc(33% - 20px);
@@ -420,10 +420,10 @@ section .title::after{
 .work .title::after,
 .work .title::after{
     background: #111;
-    content: "My Project Details";
+    content: "Feel WoW";
 }
 .work .title::before{
-    width: 260px;
+    width: 180px;
 }
 .work .serv-content .card{
     width: calc(33% - 20px);
@@ -550,11 +550,11 @@ section .title::after{
 }
 .projects .title::after{
     background-color: #111;
-    content: "Let's get connected";
+    content: "Let's Connect";
 }
 .projects .title::before{
     background-color: white;
-    width: 250px;
+    width: 210px;
 }
 .projects .carousel .card{
     background: #222;
